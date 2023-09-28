@@ -6,7 +6,5 @@ Make sure to install and load the shiny package. You can do so using:
 <br>
     ```R
     install.packages("shiny")
-
     library(shiny)
-
     ```
