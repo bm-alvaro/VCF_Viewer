@@ -5,7 +5,7 @@ This tiny app is intended for internal use only and is still in development
 Make sure to install and load the shiny package. You can do so using: 
 <br>
     ```
-    install.packages("shiny")  
+    install.packages("shiny")
     ```
     <br>
     ```
