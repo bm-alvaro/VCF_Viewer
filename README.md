@@ -15,5 +15,5 @@ Make sure to install and load the shiny package. You can do so using:
 To execute the app:
     <br>
     ```
-    runGitHub( "VCF_Viewer", "bm-alvaro")
+    runGitHub("VCF_Viewer", "bm-alvaro")
     ```
