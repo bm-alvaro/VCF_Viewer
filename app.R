@@ -39,7 +39,7 @@ ui <- fluidPage(theme = shinytheme("sandstone"),
                            
                            tabPanel("About",
                                     titlePanel("About"), 
-                                    div(includeMarkdown("D:/Datos/Escritorio/Alvaro/Scripts/GitHub/Scripts-UAL/R/RShiny/VCF_viewer/about.md"), 
+                                    div(includeMarkdown("./about.md"), 
                                         align="justify")
                            )
                            
